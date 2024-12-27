@@ -1,2 +1,4 @@
 create.ps1
 resource.md
+test/
+test/*
