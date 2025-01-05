@@ -3,3 +3,4 @@ resource.md
 test/
 test/*
 count.ps1
+push.ps1
